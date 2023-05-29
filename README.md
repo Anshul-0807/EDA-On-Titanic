@@ -1,1 +1,1 @@
-# EDA-on-titanic dataset
+# Exploratory Data Analysis on Titanic Dataset
